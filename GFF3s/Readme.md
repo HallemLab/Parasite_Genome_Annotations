@@ -1,4 +1,4 @@
-## Are the files in this folder current?   
+## Are the files in this folder current, or have they been integrated into WormBase and/or WormBase ParaSite?   
 
-The *S. stercoralis* GFF3 file archived here is superceded by WormBase ParaSite release 17.  
-The *S. ratti* GFF3 file has **NOT** been superceded as of WormBase version WS287 and WormBase ParaSite release 17. 
+Updated annotations in the *S. stercoralis* GFF3 file were integrated as part of WormBase ParaSite release 17.  
+Updated annotations in the *S. ratti* GFF3 file have **NOT** been integrated as of WormBase version WS287 and WormBase ParaSite release 17. 
