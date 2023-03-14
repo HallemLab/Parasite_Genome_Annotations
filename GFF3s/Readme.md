@@ -7,7 +7,7 @@ Updated annotations in the *S. stercoralis* GFF3 file were integrated as part of
 ### *S. ratti*
 
 Updated annotations in the *S. ratti* GFF3 file have **NOT** been integrated as of WormBase version WS286 and WormBase ParaSite release 17.  
-Updates from Bryant et al 2022 have been added over the WBSP17 annotation file.  
+Updates from Bryant *et al* 2022 have been added over the WBSP17 annotation file.  
 
 #### Trimming WormBase *S. ratti* annotation file using UNIX
 
@@ -20,4 +20,4 @@ As of approximately WS286/WBPS17, the size of the *S. ratti* GFF3 file is large 
 `grep -vE "BLAT|BLASTX|translated_feature|RNASeq|SL1_acceptor"  s_ratti.PRJEB125.WS287.annotations.gff3 > strongyloides_ratti.PRJEB125.WS287.community.annotations.gff3`  
 
 Once you have generated a trimmed GFF3 annotation file, edit and upload to the repo following directions in Bryant, Akimori, and Hallem (2023).   
-Note that labs should make sure to utilize branch merging, and alter line "source" data (GFF3 column 2) to identify which annotation lines have been manually altered.  The format for the altered source data should be: CCA\_\<WormBase Laboratory Identifier\>\_day+month+year (e.g., CCA_EAH_030123).  
+Note that labs should make sure to utilize branch merging, and alter line "source" data (GFF3 column 2) to identify which annotation lines have been manually altered.  The format for the altered source data should be: CCA\_\<WormBase Laboratory Identifier\>\_year+month+day (e.g., CCA_EAH_230103).  

@@ -1,0 +1,29 @@
+Input	Status	Other Name For	Split Into	Merged Into	History
+WBGene00257983	Live - Split		WBGene00306128		History: Split into "WBGene00306128" on 2022-05-22.
+WBGene00306128	Live - Unique				History: Generated on 2022-05-22.
+WBGene00258367	Live - Split		WBGene00306129		History: Split into "WBGene00306129" on 2022-05-22.
+WBGene00306129	Live - Unique				History: Generated on 2022-05-22.
+WBGene00260440	Live - Unique				History: Gene model updated on 2022-05-22.
+WBGene00264401	Live - Split		WBGene00306130		History: Split into "WBGene00306130" on 2022-05-22.
+WBGene00306130	Live - Unique				History: Generated on 2022-05-22.
+WBGene00264536	Live - Unique				History: Gene model updated on 2022-05-22.
+WBGene00255992	Live - Split		WBGene00306127		History: Split into "WBGene00306127" on 2022-05-22.
+WBGene00306127	Live - Unique				History: Generated on 2022-05-22.
+SRAE_1000137800	Live - Split	WBGene00257983	SRAE_1000137850		History: Split into "SRAE_1000137850" on 2022-05-22.
+SRAE_1000137850	Live - Unique	WBGene00306128			History: Generated on 2022-05-22.
+SRAE_1000175800	Live - Split	WBGene00258367	SRAE_1000175850		History: Split into "SRAE_1000175850" on 2022-05-22.
+SRAE_1000175850	Live - Unique	WBGene00306129			History: Generated on 2022-05-22.
+SRAE_2000024700	Live - Unique	WBGene00260440			History: Gene model updated on 2022-05-22.
+SRAE_2000417200	Live - Split	WBGene00264401	SRAE_2000417250		History: Split into "SRAE_2000417250" on 2022-05-22.
+SRAE_2000417250	Live - Unique	WBGene00306130			History: Generated on 2022-05-22.
+SRAE_2000430600	Live - Unique	WBGene00264536			History: Gene model updated on 2022-05-22.
+SRAE_0000025200	Live - Split	WBGene00255992	SRAE_0000025250		History: Split into "SRAE_0000025250" on 2022-05-22.
+SRAE_0000025250	Live - Unique	WBGene00306127			History: Generated on 2022-05-22.
+Sr-daf-11	Live - Unique	WBGene00258367
+Sr-gcy-9	Live - Unique	WBGene00266686
+Sr-gcy-12	Live - Unique	WBGene00266044
+Sr-gcy-22	Live - Unique	WBGene00257745
+Sr-gcy-23.1	Live - Unique	WBGene00264536
+Sr-gcy-23.2	Live - Unique	WBGene00255808
+Sr-gcy-23.3	Live - Unique	WBGene00267668
+Sr-gcy-28	Live - Unique	WBGene00260440
