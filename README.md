@@ -10,7 +10,8 @@ Species currently included in the community annotation efforts deposited in this
 - *Strongyloides ratti*  
 
 ## Folders
-- **GFF3s**: annotation files, including WormBase/ WormBase ParaSite annotationfiles and community annotation logs that are (potentially) not yet included in WBPS.
+- **GFF3s**: annotation files, including WormBase/WormBase ParaSite whole-genome annotation files and community annotation edit logs that are (potentially) not yet included in WormBase/WormBase ParaSite.  
+- **Gene_History**: tab-separated file tracking gene name and ID changes, including merged, split, or renamed genes.  
 
 ## License
 This project is licensed under the MIT License.
