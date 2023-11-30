@@ -7,7 +7,7 @@ SRAE_chr1	CCA_EAH_220522	intron	4281233	4281283	.	+	.	Parent=Transcript:SRAE_100
 SRAE_chr1	CCA_EAH_220522	exon	4281284	4281394	.	+	.	Parent=Transcript:SRAE_1000137800.1
 SRAE_chr1	CCA_EAH_220522	gene	4281639	4285082	.	+	.	ID=Gene:WBGene00306128;Name=WBGene00306128;sequence_name=SRAE_1000137850;biotype=protein_coding;so_term_name=protein_coding_gene;curie=WB:WBGene00306128;Alias=SRAE_1000137850
 SRAE_chr1	CCA_EAH_220522	mRNA	4281639	4285082	.	+	.	ID=Transcript:SRAE_1000137850.1;Parent=Gene:WBGene00306128;Name=SRAE_1000137850.1;wormpep=SRP08319;uniprot_id=A0A090MVU0
-SRAE_chr1	CCA_EAH_220522	CDS	4281639	4282805	.	+	2	ID=CDS:SRAE_1000137850;Parent=Transcript:SRAE_1000137850.1;Name=SRAE_1000137850;prediction_status=Partially_confirmed;wormpep=SRP08319;uniprot_id=A0A090MVU0
+SRAE_chr1	CCA_EAH_220522	CDS	4281639	4282805	.	+	0	ID=CDS:SRAE_1000137850;Parent=Transcript:SRAE_1000137850.1;Name=SRAE_1000137850;prediction_status=Partially_confirmed;wormpep=SRP08319;uniprot_id=A0A090MVU0
 SRAE_chr1	CCA_EAH_220522	CDS	4282853	4283362	.	+	0	ID=CDS:SRAE_1000137850;Parent=Transcript:SRAE_1000137850.1;Name=SRAE_1000137850;prediction_status=Partially_confirmed;wormpep=SRP08319;uniprot_id=A0A090MVU0
 SRAE_chr1	CCA_EAH_220522	CDS	4283692	4284097	.	+	0	ID=CDS:SRAE_1000137850;Parent=Transcript:SRAE_1000137850.1;Name=SRAE_1000137850;prediction_status=Partially_confirmed;wormpep=SRP08319;uniprot_id=A0A090MVU0
 SRAE_chr1	CCA_EAH_220522	CDS	4284139	4285082	.	+	2	ID=CDS:SRAE_1000137850;Parent=Transcript:SRAE_1000137850.1;Name=SRAE_1000137850;prediction_status=Partially_confirmed;wormpep=SRP08319;uniprot_id=A0A090MVU0
