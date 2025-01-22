@@ -1,0 +1,2 @@
+Manual curation of sster_liftoff_WBPS18.gff3
+Used WBSP18vsLiftoff.R script to generate a list of SSTP gene IDs that are found in the WBSP18 PRJEB528 gff3 file for S. stercoralis but are missing from the gff3 file produced by the Hunt lab to place SSTP IDs onto the new PRJNA930454.WBPS19 genome. This identified 110 genes missing from the liftoff annotations. I then used the biomaRt package to get the peptide sequences for these genes, using the archived WBPS18 mart.
